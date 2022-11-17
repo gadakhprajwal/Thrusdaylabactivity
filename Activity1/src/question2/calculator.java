@@ -25,14 +25,16 @@ public class calculator {
 			
 		case "+":
 			System.out.println("Your addition is " + (number1 + number2));
-		
+			break;
 		case "-":
 			System.out.println("Your subtraction is " + (number1 - number2));
-			
+			break;
 		case "/":
 			System.out.println("Your division is " + (number1 / number2));
+			break;
 		default: 
 			System.out.println("Enter a valid operation from +,-,*,/");
+			break;
 		}
 	}
 }
