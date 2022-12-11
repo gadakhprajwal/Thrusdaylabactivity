@@ -1,3 +1,5 @@
+Author: Prajwal Gadakh
+
 package question2;
 
 import java.util.Scanner;
