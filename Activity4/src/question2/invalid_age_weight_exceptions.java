@@ -1,4 +1,4 @@
-Author: Prajwal Gadakh
+// Author: Prajwal Gadakh
 
 package question2;
 
